@@ -1,5 +1,5 @@
 #include <iostream>
-
+//TODO: use bitmasks to map the board.
 using namespace std;
 
 int moveSet_x[8] = {  2, 1, -1, -2, -2, -1,  1,  2 };
